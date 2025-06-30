@@ -16,4 +16,4 @@ I'm a passionate web developer and programmer with expertise in various technolo
 - **Manjaro**: Experienced with Manjaro (based on Arch Linux) for software development, customizing system setups, and package management.
 
 ## 📈 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandman-sh&show_icons=true&hide_title=true)
+![sandman-sh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sandman-sh&theme=vue-dark&hide_border=true)
